@@ -1,8 +1,5 @@
 #include <stdio.h>
 int main() {
-    int queue[50];
-    int front = 0;
-    int rear = 0;
 
     int p[20], at[20], bt[20], ct[20], tat[20], wt[20];
 
